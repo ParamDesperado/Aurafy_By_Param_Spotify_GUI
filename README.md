@@ -2,7 +2,7 @@
 
 *A simple, elegant desktop Spotify controller built with Python and Tkinter.*
 
-![Aurafy Preview](https://github.com/yourusername/aurafy/assets/preview.png)
+![Aurafy Preview](https://github.com/yourusername/aurafy/preview.png)
 
 ---
 
